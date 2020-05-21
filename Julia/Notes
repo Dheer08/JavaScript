@@ -6,3 +6,8 @@ Facts :
 	5.High Level flexible programming language
 	6.Easy to learn and fast to execute
 	7.Faster than R,Python,Matlab
+
+Commands :
+	1.ctrl l - clear the screen
+	2.ctrl d - to close the julia
+	3.ctrl c - interrupting the programming for a long time

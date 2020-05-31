@@ -1,8 +1,7 @@
 package main
-
+// GO is a imperative language
 import "fmt"
 
 func main(){
-	// This is my first sample program in go
-	fmt.Println("Hello World,Welcome to Go programming")
+	fmt.Println("Hello World")
 }

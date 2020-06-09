@@ -1,7 +1,7 @@
 # Learn  top 10 languages with me to do anything that you want
       1.C 
       2.Cpp
-      3.C#
+      3.Rust
       4.go
       5.java
       6.javaScript

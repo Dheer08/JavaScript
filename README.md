@@ -1,11 +1,10 @@
-# Learn  top 10 languages with me to do anything that you want
-      1.C 
-      2.Cpp
-      3.Rust
-      4.go
-      5.java
-      6.javaScript
-      7.Julia
-      8.Python
-      9.Dart
-      10.R
+# Learning JavaScript from basics to advanced 
+### Topics to be Covered
+            1.Basics of JavaScript 
+            2.Advanced concepts of javaScript
+            3.Node.js
+            4.React.js
+            5.TensorFlow.js(Following Deep learning with JavaScript Book)
+            6.Games 
+            7.End to End Projects with deployment in Heroku or Github pages
+            8.stay update

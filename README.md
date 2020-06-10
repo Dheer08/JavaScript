@@ -7,4 +7,5 @@
             5.TensorFlow.js(Following Deep learning with JavaScript Book)
             6.Games 
             7.End to End Projects with deployment in Heroku or Github pages
-            8.stay update
+            8.React Native
+            9.Stay Update
